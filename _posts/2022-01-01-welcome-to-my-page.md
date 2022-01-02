@@ -2,7 +2,7 @@
 title: "Welcome to My Website 2.0!"
 date: 2022-01-01T00:00:00-00:00
 categories:
-  - blog
+  - Blog
 tags:
   - Jekyll
   - update

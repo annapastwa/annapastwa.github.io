@@ -1,7 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Research"
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Research Projects"
     url: /research/
   - title: "Teaching"
     url: /teaching/   
@@ -9,5 +11,3 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
