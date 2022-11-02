@@ -17,10 +17,8 @@ title: Anna M. Pastwa
 subtitle: Machine Learning, Economics, Finance
 logo: "/assets/images/mllogo.png"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- # this means to ignore newlines until "baseurl:" # Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  Anna M.Pastwa is currently researching the economic and technical foundations of progress in computing at MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), and MIT Sloan School of Management Initiative on the Digital Economy. 
 twitter_username: 
 github_username: 
 minimal_mistakes_skin: default
